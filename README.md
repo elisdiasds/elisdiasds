@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Elisângela Dias Silva
 
-<!--
-**elisdiasds/elisdiasds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Analista de Dados Júnior** apaixonada por transformar dados em insights que ajudam a prevenir fraudes e melhorar negócios.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Áreas de Interesse  
+- Análise de Dados  
+- Prevenção de Fraudes  
+- Business Intelligence (BI)  
+- Machine Learning  
+
+---
+
+## 🌱 O que estou aprendendo  
+- Técnicas avançadas de análise de dados  
+- SQL e modelagem de dados  
+- Visualização e storytelling com Power BI e Python  
+
+---
+
+## 🤝 Projetos e Colaborações  
+Estou aberta a colaborar em projetos de análise de dados, BI e detecção de fraudes.  
+Quer conhecer meu trabalho? Confira meus projetos públicos no [GitHub](https://github.com/elisdiasds) e no [Kaggle](https://www.kaggle.com/elisdias).
+
+---
+
+## 📫 Como me encontrar  
+[LinkedIn](https://www.linkedin.com/in/elisangeladias-dados/)  
+
+---
+
+## ⚡ Curiosidade  
+Sou fã de música e adoro um bom churrasco!
+
+---
+
+## Pronouns: She/Her  
