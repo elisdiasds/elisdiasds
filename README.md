@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Elisângela Dias Silva
+# 👋 Olá, eu sou a Elisângela Dias 
 
 Sou **Analista de Dados Júnior** apaixonada por transformar dados em insights que ajudam a prevenir fraudes e melhorar negócios.
 
