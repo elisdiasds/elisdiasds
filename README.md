@@ -30,9 +30,4 @@ Quer conhecer meu trabalho? Confira meus projetos públicos no [GitHub](https://
 
 ---
 
-## ⚡ Curiosidade  
-Sou fã de música e adoro um bom churrasco!
-
----
-
 ## Pronouns: She/Her  
